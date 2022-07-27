@@ -23,6 +23,10 @@ body {
   background-position: center;
 }
 
+.bg-mistrabajos {
+  background-color: #2365d7;
+}
+
 /* Contacto */
 
 #Contacto form label {
